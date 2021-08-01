@@ -1,2 +1,2 @@
 PRD-01 :
-Penambahan feature pada home
+Penambahan feature pada home dan catalog
